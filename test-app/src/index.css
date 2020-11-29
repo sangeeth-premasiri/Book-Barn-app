@@ -1,0 +1,111 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.nav-bar{
+  height: 108px;
+  background-color: #A6764E;
+}
+
+.nav-item{
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+  margin-left: 111px;
+}
+
+.main-section{
+  height: 540px;
+  background-image: url(./images/backdrop.jpg) ;
+  background-repeat: round;
+  color: white;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+ 
+}
+
+.main-text{
+  margin-left: 350px;
+  margin-top: 110px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.para{
+  margin: 50px;
+}
+
+.collection-section{
+  background-color: #261308;
+  margin-top: 0;
+  height: auto;
+  padding-top: 0;
+}
+
+.form-item{
+  margin-top: 10px;
+}
+
+.book-form{
+  background-color: #8D5347;
+  color: white;
+  height: 380px;
+  margin: 0;
+  padding: 0;
+}
+
+.contact-form{
+  background-color: #59351F;
+  color: white;
+  height: 350px;
+  justify-content: space-between;
+}
+
+.message{
+  margin-right: 900px;
+  width: 300px;
+  padding: 0;
+
+}
+
+.footer{
+  height: 250px;
+  background-color: #251307;
+  color: white;
+}
+
+.footer-items{
+  margin-top: 55px;
+  align-items: center;
+}
+
+.footer-items-icons{
+  margin-top: 80px;
+  margin-right: 0px;
+}
+
+.table-row{
+  width: 25%;
+  text-align: center;
+}
+
+.table-row-td{
+  width: 25%;
+  text-align: center;
+  background-color: #A6764E;
+}
+
+h1,h2,h3,h4{
+  margin: 0;
+  padding: 0;
+}
